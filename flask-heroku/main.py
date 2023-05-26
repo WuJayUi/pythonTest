@@ -10,4 +10,4 @@ def test():
     return "Let,s go"
 
 if __name__ == "__main__": #如果以主程式執行
-    makeYourSelf.run() #立刻啟動伺服器
+    app.run() #立刻啟動伺服器
